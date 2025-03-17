@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=nombre\ mazo
+comment1.target=Jugador(java.lang.String,\ Mazo)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Jugador.\r\n\ Inicializa\ el\ nombre\ del\ jugador\ y\ su\ mano\ de\ cartas.\r\n\r\n\ @param\ nombre\ Nombre\ del\ jugador.\r\n\ @param\ mazo\ \ \ Mazo\ del\ cual\ se\ repartir\u00E1n\ las\ cartas.\r\n
+comment2.params=cantidad
+comment2.target=void\ asignarCartas(int)
+comment2.text=\r\n\ Asigna\ cartas\ al\ jugador\ desde\ el\ mazo.\r\n\r\n\ @param\ cantidad\ N\u00FAmero\ de\ cartas\ a\ asignar.\r\n
+comment3.params=carta
+comment3.target=void\ descartarCarta(Carta)
+comment3.text=\r\n\ Permite\ al\ jugador\ deshacerse\ de\ una\ carta\ espec\u00EDfica.\r\n\r\n\ @param\ carta\ Carta\ que\ el\ jugador\ desea\ descartar.\r\n
+comment4.params=
+comment4.target=java.lang.String\ obtenerInformacionJugador()
+comment4.text=\r\n\ Devuelve\ la\ informaci\u00F3n\ del\ jugador,\ incluyendo\ su\ nombre\ y\ las\ cartas\ en\ su\ mano.\r\n\r\n\ @return\ Cadena\ con\ la\ informaci\u00F3n\ del\ jugador.\r\n
+numComments=5

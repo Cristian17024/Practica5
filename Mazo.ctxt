@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Mazo
+comment1.params=
+comment1.target=Mazo()
+comment2.params=
+comment2.target=void\ inicializarMazo()
+comment3.params=
+comment3.target=void\ barajar()
+comment4.params=numeroDeCartas
+comment4.target=java.util.List\ repartirCartas(int)
+comment5.params=carta
+comment5.target=void\ devolverCarta(Carta)
+comment6.params=
+comment6.target=java.util.List\ obtenerCartasDisponibles()
+comment7.params=
+comment7.target=java.util.List\ obtenerCartasRepartidas()
+numComments=8
